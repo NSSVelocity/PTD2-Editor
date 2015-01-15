@@ -13,7 +13,7 @@ package {
 	import ui.ui_profileSelect;
 	
 	public class Main extends Sprite {
-        protected var myAccount:account;
+		protected var myAccount:account;
 		protected var currentProfile:profile_story;
 		
 		private var loginScreen:ui_accountLogin;
